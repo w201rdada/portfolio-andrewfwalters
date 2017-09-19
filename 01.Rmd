@@ -6,11 +6,17 @@ yaba, daba, do
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Cybersecurity is treated by the public as many other engineering disciplines are, it only gets attention when it breaks. Even a casual observer of the field reads about a data breach at a major coorporation several times a year. And this negative attention drives fear in the business community. This fear of liability that drives investment in hardening of 
+
+This leads businesses to one of two  In the business community this has created a fear of liability, 
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+A good cybersecurity strategy will always be a full stack solution, but a better net keeping threats out of an enterprise environment alieviates some of the risk on the remainder of the system. This isn't a new idea, enterprise network security started with simple firewalls and has evolved to a multi-layered stack providing some measure of protection to the machines behind it. This network security is often software purchased from a third party and configured for the local environment. Some common layers include: blocking unused ports, blacklisting untrustworthy websites, and scanning email attachments for known malicious code.
+
+Codsider that the average enterprise network is not very diverse. Within the network there are one or two computer architectures and a handful of operating systems. This limits the space of all possible malware greatly, and provides an oppertunity to reduce the network security problem to a more manageable size. A general malware detection system provides protection from two many threats to examine every packet for a threat. But given a small enough space of threats it could become possible to search every bit for potential threats.
+
+This is because cybersecurity threats are written for a particular operating system and architecture. Compiled code for that arch/OS combination is identifiable.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
