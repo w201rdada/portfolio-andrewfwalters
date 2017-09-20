@@ -13,3 +13,6 @@ While there is a lot of potential in this security system, tremendous value coul
 
 ## A Business Imperative
 The enterprise market for this dynamic cybersecurity umbrella is enormous. In conjunction with existing security techniques, it would make existing enterprises far more resilient to attacks by blocking malicious traffic before it reaches the corporate intranet. IT professionals would be foolish not to incorporate this layer into their overall security strategy.
+
+## First Headline Attempt
+Enterprises safe fom malware using network scanning: CEO still writes passwords on sticky notes
