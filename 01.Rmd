@@ -1,7 +1,7 @@
 # Cybersecurity at Scale
 
 ### Keywords
-cybersecurity, enterprise, networking, malware detection
+cybersecurity, enterprise, networking, malware, detection
 
 ## Throwing Money at the Problem
 A typical enterprise views cybersecurity as a silent menace. A problem that is always at the back of their mind but is never truly urgent until it breaks. Constant news of enterprise data breaches reinforce the fear, and companies invest just enough to give their leadership a sense of security. That feeling of security is achieved by adding more layers of security, spending more time and capital on each layer, and constantly updating and testing each layer.
@@ -16,3 +16,13 @@ The enterprise market for this dynamic cybersecurity umbrella is enormous. In co
 
 ## First Headline Attempt
 Enterprises safe fom malware using network scanning: CEO still writes passwords on sticky notes
+
+## Summarized Peer Feedback
+Throwing Money at the Problem
+- Add supporting evidence (Charlene)
+- Unclear if enterprise is spending too much or too little (Simon)
+Better Way Through Data Science
+- Make technical explanation more concise (Akhil and Charlene)
+- Add a better description of what machine code means and how data science would be applied (Akhil)
+A Business Imperative
+- How does this scale up, or is it always an enterprise-specific solution? (Akhil)
