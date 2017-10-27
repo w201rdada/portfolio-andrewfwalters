@@ -6,7 +6,8 @@ Education, standardization, big-data
 
 ## Big Data, Small Data
 
-The US educational system has a two-fold problem with data. Teachers are already overwhelmed with data collection, the granularity of data on each student that is required in most school districts causes teachers to burn the midnight oil completeing forms instead of planning lessons [[1](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit)][2]()
+The US educational system has a two-fold problem with data. Teachers are already overwhelmed with data collection, the granularity of data on each student that is required in most school districts causes teachers to burn the midnight oil completeing forms instead of planning lessons [[1](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit)] [[2](https://www.washingtonpost.com/local/paperwork-burden-plagues-teachers/2011/11/11/gIQALB3aFN_story.html?utm_term=.5fd654b15b5a)]. While there is are many reason's to worry about the work-life balance of our nation's educators, the greater concern is that most of this valueble data dissapears into the black hole of the local education distric's servers (or worse, file cabinets). Looking through publicly availible datasets, not one contains any qualitative data about students [[3](https://catalog.data.gov/dataset?groups=education2168#topic=education_navigation)].
+
 educators are lousy at data collection. Hard to prove what situations call for which methods because of biased data
 
 ## A middle.
@@ -18,4 +19,5 @@ Common data collection format over years will give researchers a great repositor
 Privacy concerns, would it be possible to extract personal data from this set. Will this actually resolve any disputes . 
 
 ## References
-1. NPR. [After 25 Years, This Teacher Says It's All The Paperwork That Made Him Quit](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit). September 4, 2016.
+1) NPR. [After 25 Years, This Teacher Says It's All The Paperwork That Made Him Quit](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit). September 4, 2016.
+2) The Washington Post. [Paperwork burden plagues teachers](https://www.washingtonpost.com/local/paperwork-burden-plagues-teachers/2011/11/11/gIQALB3aFN_story.html?utm_term=.5fd654b15b5a). November 12, 2011.
