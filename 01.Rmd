@@ -4,15 +4,28 @@
 cybersecurity, enterprise, networking, malware, detection
 
 ## Throwing Money at the Problem
-A typical enterprise views cybersecurity as a silent menace. A problem that is always at the back of their mind but is never truly urgent until it breaks. Constant news of enterprise data breaches reinforce the fear, and companies invest just enough to give their leadership a sense of security. The complexity of cyber threats makes it difficult to assess exactly how much time and capital is the right amount to invest. Even the best layered security system could be brought down by a poorly written piece of software.
+A typical enterprise views cybersecurity as a silent menace. 
+A problem that is always at the back of their mind but is never truly urgent until it breaks. 
+Constant news of enterprise data breaches reinforce the fear, and companies invest just enough to give their leadership a sense of security. 
+The complexity of cyber threats makes it difficult to assess exactly how much time and capital is the right amount to invest. 
+Even the best layered security system could be brought down by a poorly written piece of software.
 
 ## Better Way Through Data Science
-While a good cybersecurity strategy will always be a full stack solution, most layers (particularly those closest to the hardware) often rely on deterministic means to provide security. A virus scan program might store hashes of known malware, an automated administrator applies the latest security patches, or a firewall prevents access to a network on all but a few ports. While good strategies, these deterministic systems depend on human judgement that is often not reevaluated frequently. There is an opportunity for an umbrella layer of cybersecurity to protect entire systems, a layer that can learn and adapt to new attacks. Better yet, if this layer could protect against zero-day vulnerabilities in would be invaluable.
+While a good cybersecurity strategy will always be a full stack solution, most layers (particularly those closest to the hardware) often rely on deterministic means to provide security. 
+A virus scan program might store hashes of known malware, an automated administrator applies the latest security patches, or a firewall prevents access to a network on all but a few ports. 
+While good strategies, these deterministic systems depend on human judgement that is often not reevaluated frequently. 
+There is an opportunity for an umbrella layer of cybersecurity to protect entire systems, a layer that can learn and adapt to new attacks. 
+Better yet, if this layer could protect against zero-day vulnerabilities in would be invaluable.
 
-By looking at all traffic passing through an enterprise network, some content could be flagged as potentially malicious and stopped before it touches a vulnerable system. Consider what a computer virus might look like. A virus will contain either source code or compiled code, it will target a handful of parts of the system, and it will attempt to spread itself. Those are clear patterns that could be learned by a model trained on a large set of malware.
+By looking at all traffic passing through an enterprise network, some content could be flagged as potentially malicious and stopped before it touches a vulnerable system. 
+Consider what a computer virus might look like. 
+A virus will contain either source code or compiled code, it will target a handful of parts of the system, and it will attempt to spread itself. 
+Those are clear patterns that could be learned by a model trained on a large set of malware.
 
 ## A Business Imperative
-The enterprise market for this dynamic cybersecurity umbrella is enormous. In conjunction with existing security techniques, it would make existing enterprises far more resilient to attacks by blocking malicious traffic before it reaches the corporate intranet. IT professionals would be foolish not to incorporate this layer into their overall security strategy.
+The enterprise market for this dynamic cybersecurity umbrella is enormous. 
+In conjunction with existing security techniques, it would make existing enterprises far more resilient to attacks by blocking malicious traffic before it reaches the corporate intranet. 
+IT professionals would be foolish not to incorporate this layer into their overall security strategy.
 
 ## First Headline Attempt
 Enterprises safe fom malware using network scanning: CEO still writes passwords on sticky notes
@@ -25,4 +38,5 @@ Better Way Through Data Science
 - Make technical explanation more concise (Akhil and Charlene)
 - Add a better description of what machine code means and how data science would be applied (Akhil)
 A Business Imperative
-- How does this scale up, or is it always an enterprise-specific solution? (Akhil)
+- How does this scale up, or is it always an enterprise-specific solution. 
+(Akhil)
