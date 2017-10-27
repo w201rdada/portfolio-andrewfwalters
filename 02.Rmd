@@ -14,7 +14,11 @@ While there are large datasets availible about how schools are performing, this 
 
 The plan for better educational research requires two actions. The first is a commitment to common data collection standards at the federal level. This would most likely require legislative action requireing every school district to report data about each district, school, classroom and student to the Department of Education. There would also need to be collaboration between educational researchers and teachers to determine the best possible data to collect. Hopefully this would include developing standards for collecting qualitative data on each student, reducing the administrative burdon on teachers.
 
-While it would seem that collecting a US-wide educational dataset would be the monumental challenge, the second action is just as difficult. We need to produce great research from this data, that can guide policy at the local, state and federal level to improve educational outcomes. 
+While it would seem that collecting a US-wide educational dataset would be the monumental challenge, the second action is just as difficult. We need to produce great research from this data, that can guide policy at the local, state and federal level to improve educational outcomes. The challenge is that while this dataset will allow us to answer some questions easily, but the questions worth knowing the answer will still be difficult. 
+
+For example, it will be easy to look at a particular educational method and using , say giving students chromebooks during lectures, is improving grades or test scores. Why not? Because improving grades is not the purpose of our educational system.
+
+
 
 ## An end.
 
