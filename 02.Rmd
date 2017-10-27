@@ -8,11 +8,13 @@ Education, standardization, big-data
 
 The US educational system has a two-fold problem with data. Teachers are already overwhelmed with data collection, the granularity of data on each student that is required in most school districts causes teachers to burn the midnight oil completeing forms instead of planning lessons [[1](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit)] [[2](https://www.washingtonpost.com/local/paperwork-burden-plagues-teachers/2011/11/11/gIQALB3aFN_story.html?utm_term=.5fd654b15b5a)]. While there is are many reason's to worry about the work-life balance of our nation's educators, the greater concern is that most of this valueble data dissapears into the black hole of the local education distric's servers (or worse, file cabinets). Looking through publicly availible datasets, not one contains any qualitative data about students [[3](https://catalog.data.gov/dataset?groups=education2168#topic=education_navigation)].
 
-educators are lousy at data collection. Hard to prove what situations call for which methods because of biased data
+While there are large datasets availible about how schools are performing, this is of limited utility to researchers who want to look at the big picture. Which students had sucessful outcomes? Which of those students "beat the odds" and outperformed their demographic expectations? What are the educational methods that empower students to out-perform? Those are the questions that could lead to real change in the education space. Finding a way to answer those questions could unlock tremendous value for our country and the world.
 
-## A middle.
+## Collecting a Mountain of Data
 
-Common data collection format over years will give researchers a great repository to draw repeatable conclusions from. Would need to document all educational models in play at each school.
+The plan for better educational research requires two actions. The first is a commitment to common data collection standards at the federal level. This would most likely require legislative action requireing every school district to report data about each district, school, classroom and student to the Department of Education. There would also need to be collaboration between educational researchers and teachers to determine the best possible data to collect. Hopefully this would include developing standards for collecting qualitative data on each student, reducing the administrative burdon on teachers.
+
+While it would seem that collecting a US-wide educational dataset would be the monumental challenge, the second action is just as difficult. We need to produce great research from this data, that can guide policy at the local, state and federal level to improve educational outcomes. 
 
 ## An end.
 
@@ -21,3 +23,4 @@ Privacy concerns, would it be possible to extract personal data from this set. W
 ## References
 1) NPR. [After 25 Years, This Teacher Says It's All The Paperwork That Made Him Quit](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit). September 4, 2016.
 2) The Washington Post. [Paperwork burden plagues teachers](https://www.washingtonpost.com/local/paperwork-burden-plagues-teachers/2011/11/11/gIQALB3aFN_story.html?utm_term=.5fd654b15b5a). November 12, 2011.
+3) data.gov. [Education Data Catalog](https://catalog.data.gov/dataset?groups=education2168#topic=education_navigation). October 27, 2017.
