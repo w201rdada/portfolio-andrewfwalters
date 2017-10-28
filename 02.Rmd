@@ -14,15 +14,13 @@ While there are large datasets availible about how schools are performing, this 
 
 The plan for better educational research requires two actions. The first is a commitment to common data collection standards at the federal level. This would most likely require legislative action requireing every school district to report data about each district, school, classroom and student to the Department of Education. There would also need to be collaboration between educational researchers and teachers to determine the best possible data to collect. Hopefully this would include developing standards for collecting qualitative data on each student, reducing the administrative burdon on teachers.
 
-While it would seem that collecting a US-wide educational dataset would be the monumental challenge, the second action is just as difficult. We need to produce great research from this data, that can guide policy at the local, state and federal level to improve educational outcomes. The challenge is that while this dataset will allow us to answer some questions easily, but the questions worth knowing the answer will still be difficult. 
+While it would seem that collecting a US-wide educational dataset would be the monumental challenge, the second action is just as difficult. We need to produce great research from this data that can guide policy at the local, state and federal level to improve educational outcomes. The challenge is that this dataset will allow us to answer some questions easily, while the questions worth knowing the answer to will still be difficult. 
 
-For example, it will be easy to look at a particular educational method and using , say giving students chromebooks during lectures, is improving grades or test scores. Why not? Because improving grades is not the purpose of our educational system.
-
-
+For example, it will be easy to look at a particular educational method, such as giving students chromebooks during lectures, and show that education method being correlated to improving grades or test scores. But the desired result is improved student outcome requires following the student through their education. By identifying the important signals that predict a successful outcome for a student, research can produce better policy that improcves education in the US.
 
 ## An end.
 
-Privacy concerns, would it be possible to extract personal data from this set. Will this actually resolve any disputes . 
+Implementing this will be challenging on a legislative and social level. Motivating legislatures to pass action to collect this dataset will be very difficult. Another issue will be privacy, since individuals will be reluctant to trust the government to maintain this dataset. But this is a legislative priority worth pursing becuase the value to society is to great to allow poor educational policy to hold back out students.
 
 ## References
 1) NPR. [After 25 Years, This Teacher Says It's All The Paperwork That Made Him Quit](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit). September 4, 2016.
