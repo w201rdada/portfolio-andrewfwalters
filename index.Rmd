@@ -11,7 +11,7 @@ documentclass: book
 library(magrittr)
 ```
 
-# Welcome!
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -34,7 +34,7 @@ Security software has become very good at finding known threats, but what about 
 
 Schools have lots of data, but very little is accessible to researchers. This limits the effectiveness of experimenting with educational policy, because it can be hard for experiments to collect enough data or follow through on educational outcomes of students. Creating a way to compile data, especially the troves of qualitative data, that schools collect would allow for much better research. Qualitative data can be processed and mined and produce insights that would be impossible otherwise.
 
-## About the author
+## About the author {-}
 
 I grew up in Kentucky, earned my bachelors in computer engineering at Villanova University (near Philadelphia). I currently work as an engineer at Lockheed Martin in New Jersey and live in Philadelphia. I have held roles in integration and test, modeling and simulation, deep learning research, and corporate strategy.
 
