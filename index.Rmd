@@ -26,13 +26,13 @@ knitr::include_graphics('img/hello-world.png')
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Enterprise Cyber Security at Scale Abstract
-
-Security software has become very good at finding known threats, but what about unkonwn threats? There are properties that make executable software look different from other forms of network traffic, and malware has common properties that may stand out. So why not build a classifier that searches all network traffic for potential malware? This could prevent malicious software from ever entering an enterprise network.
-
-### Big Educational Data Abstract
+### Big Educational Data Abstract {-}
 
 Schools have lots of data, but very little is accessible to researchers. This limits the effectiveness of experimenting with educational policy, because it can be hard for experiments to collect enough data or follow through on educational outcomes of students. Creating a way to compile data, especially the troves of qualitative data, that schools collect would allow for much better research. Qualitative data can be processed and mined and produce insights that would be impossible otherwise.
+
+### Enterprise Cyber Security at Scale Abstract {-}
+
+Security software has become very good at finding known threats, but what about unkonwn threats? There are properties that make executable software look different from other forms of network traffic, and malware has common properties that may stand out. So why not build a classifier that searches all network traffic for potential malware? This could prevent malicious software from ever entering an enterprise network.
 
 ## About the author {-}
 
