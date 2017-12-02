@@ -1,4 +1,4 @@
-# Cybersecurity at Scale
+# Cybersecurity at Scale {-big-cyber}
 
 ### Keywords
 cybersecurity, enterprise, networking, malware, detection
@@ -26,3 +26,58 @@ Better Way Through Data Science
 - Add a better description of what machine code means and how data science would be applied (Akhil)
 A Business Imperative
 - How does this scale up, or is it always an enterprise-specific solution? (Akhil)
+#  Collecting Educational Data at Scale in the US: A Gold Mine for Researchers {#edu-data}
+
+#### Keywords
+
+Education, Natural Language Processing, Big Data, Standardized Data
+
+## Big Data, Small Data
+
+The US educational system has a two-fold problem with data.
+Teachers are already overwhelmed with data collection, the granularity of data on each student that is required in most school districts causes teachers to burn the midnight oil completing forms instead of planning lessons [[1](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit)] [[2](https://www.washingtonpost.com/local/paperwork-burden-plagues-teachers/2011/11/11/gIQALB3aFN_story.html?utm_term=.5fd654b15b5a)].
+While there is are many reason's to worry about the work-life balance of our nation's educators, the greater concern is that most of this valuable data disappears into the black hole of the local education district's servers (or worse, file cabinets).
+Looking through publicly available datasets, not one contains any qualitative data about students [[3](https://catalog.data.gov/dataset?groups=education2168#topic=education_navigation)].
+
+While there are large datasets available about how schools are performing, this is of limited utility to researchers who want to look at the big picture.
+Which students had successful outcomes? Which of those students "beat the odds" and outperformed their demographic expectations?
+What are the educational methods that empower students to out-perform?
+Those are the questions that could lead to real change in the education space.
+Finding a way to answer those questions could unlock tremendous value for our country and the world.
+
+## Collecting a Mountain of Data
+
+The plan for better educational research requires two actions.
+The first action is on the part of educators, specifically administrations at the local and state level.
+Finding a way to unlock the vast troves of qualitative student data is challenging but not insurmountable.
+There are two major barriers preventing access to this data by researchers: social concerns about privacy, and operational concerns about how this data fits together.
+The social challenge can be mostly overcome by existing technology.
+Apple announced the use of differential privacy in the iOS ecosystem to allow the company to perform analytics on user data while protecting privacy [[4](https://techcrunch.com/2016/06/14/differential-privacy/)].
+Commitment to a similar technology combined with a public campaign about the benifits could convince most administrators that this is worthwhile.
+
+With the blessing of state and local administrators, the opperational hurdle will need to be overcome.
+Standardized tests and some demographic information currently comprise most of the information collected about individual students at the federal level.
+Expanding this to qualitative data requires some form a standardization about what data is collected.
+At a minimum, there needs to be a way to map this data to an individual student as they switch between school districts and states.
+Following students with many dimensions of data as they progress through school is crucial to understanding the long term effects of education policy.
+At best, this is an oppertunity for schools to rethink the data they collect, and learning to work smarter not harder.
+Common data formats and sharing data collection ideas would be a great way for schools to reduce the administrative workload on teachers and instead focus on only collecting just enough data to accurately track students.
+
+Having completed the data collection component, releasing the data to researchers should be sufficient to yeild breakthoughs in policy.
+For example, instead of finding a school to implement policy X, a reasearcher could simply take a random sample of schools that have implemented policy X compared to a random control group and test their hypotheses.
+Unleashing techniques like natural langage processsing would yeild deeper insights about student outcomes then just test scores would ever be able to.
+This will bring about meaningful policy changes that are backed by reliable data and tested at scale.
+
+## A National Call to Action
+
+While the education space is not known for leading the way in technology, there is a real possibility that administrators could see the value in better educational research.
+For example, years after most every office worker had a computer, schools started experimenting with chromebooks and iPads for students.
+This demonstrates that administrators do have an interest in adopting succesful technology, but are cautious about taking on any risk in their already tight budget.
+Data science is now at a stage where it has shown to deliver value to companies accross industries.
+Educators should now start to realize that there is very little risk in turning to data analytics, and it may give them insights into thieir pressing questions like "Are those chromebooks I just bought actually helping my students?"
+
+## References
+1) NPR. [After 25 Years, This Teacher Says It's All The Paperwork That Made Him Quit](http://www.npr.org/sections/ed/2016/09/04/485838588/after-25-years-this-teacher-says-its-all-the-paperwork-that-made-him-quit). September 4, 2016.
+2) The Washington Post. [Paperwork burden plagues teachers](https://www.washingtonpost.com/local/paperwork-burden-plagues-teachers/2011/11/11/gIQALB3aFN_story.html?utm_term=.5fd654b15b5a). November 12, 2011.
+3) data.gov. [Education Data Catalog](https://catalog.data.gov/dataset?groups=education2168#topic=education_navigation). October 27, 2017.
+4) techrunch.com. [What Apple’s differential privacy means for your data and the future of machine learning](https://techcrunch.com/2016/06/14/differential-privacy/). June 14, 2016.
